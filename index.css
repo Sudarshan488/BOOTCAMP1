@@ -1,0 +1,58 @@
+/*p{ //fontstyling
+
+    font-style: italic;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight: 200;
+    font-variant: small-caps;
+
+    color:red;
+   text-align:center;
+    text-decoration:line-through; 
+   text-transform:lowercase;
+   text-indent:200px;
+   text-shadow:50px 60px 4px black;
+   line-height:100px;
+   word-spacing:30px; 
+}
+*/
+/* *{
+    /* background-color: aqua; */
+    /* background-image:url(download.jpeg) ; */
+    /* background-size: cover; */
+ /* background-repeat: repeat-x;
+
+    background-repeat: repeat-y; */
+     
+
+/* div{
+    background-image:radial-gradient(red,yellow,white,green) ;
+    border: 5px solid black;
+} */ 
+/* #c1{
+    background-color:red ;
+    position: absolute;
+    top: 0px;
+    left: 50px;
+    text-align: center;
+}
+.c2{
+top: 30px;
+    position:relative;
+    left: 225px;
+}  */
+.abc{
+    width: 200px;
+    height: 100px;
+background-color: rgb(7, 74, 1);
+color: red;
+border: 20px solid yellow;
+margin: 50px;
+padding: 50px;
+display: flex;
+
+}
+.a{
+    
+
+}
